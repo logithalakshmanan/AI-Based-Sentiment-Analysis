@@ -39,6 +39,23 @@ Logistic Regression
 - model/
 - dataset/
 
+## 📸 Screenshots
+
+### Home Page
+
+![alt text](webpage.png.png)
+
+### Positive Prediction
+
+![alt text](positive.png.png)
+
+### Negative Prediction
+
+![alt text](negative.png.png)
+
+### Neutral Prediction
+![alt text](neutral.png.png)
+
 ## Author
 
 Logitha L
