@@ -50,20 +50,6 @@ An AI-powered web application that predicts whether a review is **Positive**, **
 
 ---
 
-## ▶️ Run Locally
-
-```bash
-git clone https://github.com/logithalakshmanan/AI-Based-Sentiment-Analysis.git
-
-cd AI-Based-Sentiment-Analysis
-
-pip install -r requirements.txt
-
-python app.py
-```
-
----
-
 ## 👩‍💻 Author
 
 **Logitha L**
